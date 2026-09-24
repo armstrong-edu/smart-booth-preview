@@ -3,4 +3,4 @@
 Compiled output only, published for team testing.
 Open https://armstrong-edu.github.io/smart-booth-preview/ in Chrome and allow the camera.
 
-The source lives in a private repository. Built from `671db7e`.
+The source lives in a private repository. Built from `5e6499a`.
